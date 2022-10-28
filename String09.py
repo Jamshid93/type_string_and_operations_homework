@@ -8,7 +8,7 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return f'"[{str(x1)}, {str(x2)}, {str(x3)}]"'
+    return f'"[{(x1)}, {(x2)}, {(x3)}]"'
 print(main(1,2,3))
 
 
