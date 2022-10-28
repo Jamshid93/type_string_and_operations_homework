@@ -8,5 +8,5 @@ def main(x,y):
         str: return answer.
     """
 
-    return f'"({x}+{y})*2={(x+y)*2}"'
+    return str(f'"({x}+{y})*2={(x+y)*2}"')
 print(main(4,6))
