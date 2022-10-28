@@ -7,4 +7,4 @@ def main():
     """
 
     return "12345678"
-print(main())
+print(main()) 
